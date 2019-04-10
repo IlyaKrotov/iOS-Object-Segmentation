@@ -5,4 +5,8 @@ Also, this notebook provides a good example of how to convert tensorflow model t
 ### Usage
 Just run notebook and then you will have .coreml model and tensorflow frozen graph.
 
+### Result
+
+![Alt text](result.png?raw=true "")
+
 I hope that I will add more interesting models and examples to this repo. If you want to add more examples of convertion, feel free to do it!
