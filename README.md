@@ -9,5 +9,6 @@ Also, this notebook provides a good example of how to convert tensorflow model t
 ### Result
 
 ![Alt text](result.png?raw=true "")
+Image is taken from https://instagram.com/asyaze.
 
 I hope that I will add more interesting models and examples to this repo. If you want to add more examples of convertion or models, feel free to do it!
